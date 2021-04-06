@@ -5,7 +5,7 @@
  
 >In order to detect disease-associated genes based on imbalanced RNA array data, we proposed an integrated multiple random forests (IMRF) algorithm. IMRF is effective in identifying putative genes associated with subjects having LATE and/or AD from controls based on RNA-seq data, and then enabled effective discrimination between these samples. Various forms of validations, such as replication in other datasets, improved and competitive performance on identified genes, effectiveness of testing data with a classifier that is completely independent from decision trees and random forests, and relationships with prior AD and LATE studies on the genes linked to neurodegeneration, testify to the effectiveness of IMRF in identifying genes with altered expression in LATE and/or AD. We conclude that IMRF, as an effective feature selection algorithm for imbalanced data, is potential to facilitate the development of new gene biomarkers as well as targets for effective strategies of disease prevention and treatment.
 
---
+---
 
 Note:  If you are interested in getting the codes and results of the experiments and comparisons on AD and LATE brain RNA-seq, please feel free to contact the authors.
 

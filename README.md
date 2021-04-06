@@ -37,6 +37,4 @@ Note:  If you are interested in getting the codes and results of the experiments
 
 ## Contacts
 
-Corresponding author: Qiang Cheng
-
-E-mail: qiang.cheng@uky.edu
+Xinxing Wu (xinxingwu@gmail.com), Qiang Cheng (qiang.cheng@uky.edu)

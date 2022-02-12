@@ -25,8 +25,11 @@ Note:  If you are interested in getting the codes and results of the experiments
 <center >
     <img src="./images/Featurecalculation.jpg" width="666"/> 
  </center>
+ 
+ 
+---
 
-## Paper link
+## How to Cite
 
 Wu X, Peng C, Nelson PT, Cheng Q (2021) Random forest-integrated analysis in AD and LATE brain transcriptome-wide data to identify disease-specific gene expression. PLOS ONE 16(9): e0256648. https://doi.org/10.1371/journal.pone.0256648
 

@@ -1,4 +1,4 @@
-# Random forest-integrated analysis in AD and LATE brain RNA-seq datasets to identify disease-specific gene expression
+# Random forest-integrated analysis in AD and LATE brain RNA-seq datasets to identify disease-specific gene expression (PLOS ONE 2021)
 
 
 > Alzheimer's disease (AD) is a complex neurodegenerative disorder that affects thinking, memory, and behavior. Limbic-predominant age-related TDP-43 encephalopathy (LATE) is a recently identified common neurodegenerative disease that mimics the clinical symptoms of AD. The development of drugs to prevent or treat these neurodegenerative diseases has been slow, partly because the genes associated with these diseases are incompletely understood. Further, usually, the clinical samples for patients and controls are highly imbalanced, thus rendering it challenging to apply most existing machine learning algorithms to directly analyze such datasets. More specific disease-associated gene identification may enable new insights into underlying disease-driving mechanisms, perhaps help find biomarkers and improve prospects for effective treatment strategies.

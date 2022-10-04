@@ -1,4 +1,4 @@
-# Random forest-integrated analysis in AD and LATE brain RNA-seq datasets to identify disease-specific gene expression (PLOS ONE 2021)
+# Random forest-integrated analysis in AD and LATE brain RNA-seq datasets to identify disease-specific gene expression (Plos One 2021)
 
 Paper link: https://doi.org/10.1371/journal.pone.0256648
 
